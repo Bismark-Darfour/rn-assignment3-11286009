@@ -32,6 +32,6 @@ The app uses StyleSheet for styling components. The styles are defined within ea
 Screenshot of the app on ios for iphone 
 
 ## Screenshot
-![App Screenshot]([assets/screenshot.png](https://github.com/Bismark-Darfour/rn-assignment3-11286009/blob/main/my-app/assets/screenshot.png))
+![App Screenshot](https://github.com/Bismark-Darfour/rn-assignment3-11286009/blob/main/my-app/assets/screenshot.png)
 
 
